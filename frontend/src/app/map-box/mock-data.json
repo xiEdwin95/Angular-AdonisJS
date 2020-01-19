@@ -1,0 +1,101 @@
+{
+    "message": "test works",
+    "data": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89133,
+                    1.3301862
+                ]
+            },
+            "properties": {
+                "name": "Traffic Police Canteen",
+                "description": "Can try eat here one day very cheap",
+                "url": "https://img.favpng.com/6/25/25/car-road-transport-traffic-police-pedestrian-png-favpng-DXg3LBqaBEESHHTCxvn0CyKi9.jpg",
+                "weather": "broken clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89237,
+                    1.33353
+                ]
+            },
+            "properties": {
+                "name": "Ubi One Canteen",
+                "description": "gourmet fine dining right at the heart of Tai Seng",
+                "url": "https://media.timeout.com/images/105521729/630/472/image.jpg",
+                "weather": "broken clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.889916,
+                    1.33422
+                ]
+            },
+            "properties": {
+                "name": "Food Republic",
+                "description": "Alot of people quite expensive also. Go if got no choice",
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Food_Republic_logo.svg/1200px-Food_Republic_logo.svg.png",
+                "weather": "broken clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.87932,
+                    1.317029
+                ]
+            },
+            "properties": {
+                "name": "Sims Place Hawker Centre",
+                "description": "Here got this nice fish soup i buy before",
+                "url": "https://s3-ap-southeast-1.amazonaws.com/wheretoeat-blog/53-Top+5+Recommended+Food+at+Sims+Vista+Hawker/Top+5+Recommended+Food+at+Sims+Vista+Hawker+5.png",
+                "weather": "broken clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884923,
+                    1.325916
+                ]
+            },
+            "properties": {
+                "name": "Circuit Road Hawker Centre",
+                "description": "Here got cheap western food not bad",
+                "url": "https://burpple.imgix.net/foods/54c0b87a23d4c36d2cc1812668_original.?w=400&h=400&fit=crop&q=80&auto=format",
+                "weather": "broken clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.884923,
+                    1.325916
+                ]
+            },
+            "properties": {
+                "name": "srsrewrwerwe",
+                "description": "Here got cheap western food not bad",
+                "url": "https://burpple.imgix.net/foods/54c0b87a23d4c36d2cc1812668_original.?w=400&h=400&fit=crop&q=80&auto=format",
+                "weather": "broken clouds"
+            }
+        }
+    ]
+}
