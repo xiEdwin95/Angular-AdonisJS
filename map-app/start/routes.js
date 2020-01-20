@@ -17,6 +17,7 @@ Route.get('/api/locations', 'LocationController.index')
 Route.get('/api/locations/:id', 'LocationController.show');
 
 
+
 Route.post('/api/locations', 'LocationController.store');
 
 
